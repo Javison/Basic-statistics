@@ -1,4 +1,4 @@
-package Day_0;
+package day_0;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;

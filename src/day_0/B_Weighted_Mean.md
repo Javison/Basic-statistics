@@ -6,7 +6,8 @@ In the previous challenge, we calculated a mean. In this challenge, we practice 
 
 **Task**
 
-Given an array, , of integers and an array, , representing the respective weights of 's elements, calculate and print the weighted mean of 's elements. Your answer should be rounded to a scale of decimal place (i.e., format).
+Given an array, , of integers and an array, , representing the respective weights of 's elements, calculate and print the weighted mean of 's elements. 
+Your answer should be rounded to a scale of decimal place (i.e., format).
 
 **Input Format**
 

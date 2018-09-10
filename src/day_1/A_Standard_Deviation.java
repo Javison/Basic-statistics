@@ -1,4 +1,4 @@
-package Day_1;
+package day_1;
 
 import java.util.Scanner;
 
@@ -35,6 +35,7 @@ public class A_Standard_Deviation {
 		double varianceNumerator = 0;
 		double varianceDenominator = n;
 		for (int i = 0; i < xValues.length; i++) {
+			// Math.pow(xValues[i] - mean, 2)
 			varianceNumerator += (xValues[i] - mean) * (xValues[i] - mean);
 		}
 		variance = (double) varianceNumerator / varianceDenominator;

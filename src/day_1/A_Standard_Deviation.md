@@ -34,3 +34,4 @@ Print the standard deviation on a new line, rounded to a scale of decimal place 
 **ESP**
 
 Desviacion típica ó desviación estándar (s). Medida de dispersión de la muestra respecto valor medio.
+https://es.wikipedia.org/wiki/Desviaci%C3%B3n_t%C3%ADpica
